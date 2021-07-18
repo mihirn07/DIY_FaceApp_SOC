@@ -12,3 +12,4 @@ Github repository of all the work done in the SOC project
 ## Final Submission
 * Read this [research paper](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf) to understand GANs
 * Implemented a Traditional GAN on MNIST dataset using PyTorch and generated fake hand written digits using the trained generator model
+* The file can be found in the Final_Submission folder
